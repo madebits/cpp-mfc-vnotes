@@ -267,7 +267,7 @@ BEGIN
             VALUE "FileDescription", "VNotes MFC Application\0"
             VALUE "FileVersion", "1, 0, 0, 1\0"
             VALUE "InternalName", "VNotes\0"
-            VALUE "LegalCopyright", "Copyright (C) 2002 Vasian CEPA http://madebits.com/\0"
+            VALUE "LegalCopyright", "Copyright (C) 2002 Vasian CEPA madebits\0"
             VALUE "LegalTrademarks", "\0"
             VALUE "OriginalFilename", "VNotes.EXE\0"
             VALUE "PrivateBuild", "\0"

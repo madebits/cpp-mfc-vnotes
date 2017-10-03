@@ -145,5 +145,5 @@ void CVNotesApp::OnAppAbout()
 
 void CAboutDlg::OnEmail() 
 {
-	::ShellExecute(this->m_hWnd, _T("open"), _T("http://madebits.com/") , NULL, NULL, SW_SHOWNORMAL);
+	::ShellExecute(this->m_hWnd, _T("open"), _T("madebits") , NULL, NULL, SW_SHOWNORMAL);
 }
